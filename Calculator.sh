@@ -62,4 +62,4 @@ case $decision in
         done
         echo "Printed until $n"
         ;;
-        Esac
+        esac
