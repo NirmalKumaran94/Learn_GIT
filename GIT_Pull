@@ -2,4 +2,11 @@ This file is used to check pull command
 This file is created in the GIT website
 Pull command Worked Sucessfully
 This file is edited in VI editor in the linux
+First Commit worked succesfully
+Need to check the second commit
+File is staged is using GIT ADD <file name> command
+Status of the file can be checked by using GIT STATUS command
+File need to updated in the remote server using GIT PUSH command
+If you need to get the updates from the remote server and need to update the local server GIT PULL <link> command can be used
+GIT COMMIT to update the remote server
 
